@@ -1,0 +1,17 @@
+{
+    "id": "supernovaio.exporter-versions",
+    "name": "Versions Exporter",
+    "description": "Export your versions as changelog!",
+    "author": "Jiri Trecak",
+    "organization": "Supernova",
+    "homepage": "https://supernova.io",
+    "version": "1.0.0",
+    "usesBrands": false,
+    "usesThemes": false,
+    "executable": "/dist/build.js",
+    "engine": "latest",
+    "tags": [
+        "Release notes",
+        "Versions"
+    ]
+}

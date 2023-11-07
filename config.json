@@ -1,0 +1,15 @@
+[{
+        "key": "separateFiles",
+        "type": "boolean",
+        "default": false,
+        "title": "Each version separated to its own file",
+        "description": "If true, each version will be saved to its own file. If false, all versions will be saved to the same file."
+    },
+    {
+        "key": "generateIndexFile",
+        "type": "boolean",
+        "default": false,
+        "title": "Generate index file",
+        "description": "If true, index file will be generating containing list of all versions. Only used when `separateFiles` is true."
+    }
+]
